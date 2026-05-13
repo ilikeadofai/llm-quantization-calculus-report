@@ -10,6 +10,10 @@ Open the interactive visualization here:
 
 <https://llm-q-calculus-sd.streamlit.app/>
 
+Repository URL:
+
+<https://github.com/ilikeadofai/llm-quantization-calculus-report>
+
 The app lets readers change the simulation conditions and immediately recalculate the error/memory trade-off.
 
 ## Scope and privacy
