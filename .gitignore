@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Personal/school documents and exports
+*.hwpx
+*.hwp
+*.pdf
+*.docx
+*.xlsx
+
+# Local render/check artifacts
+*_render_check/
+*.extract.json

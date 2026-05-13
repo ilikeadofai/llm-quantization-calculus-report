@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560">
+<rect width="100%" height="100%" fill="white"/>
+<text x="450.00" y="30.00" font-size="20" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold">Relative memory usage by bit-width</text>
+<line x1="82" y1="58" x2="82" y2="478" stroke="#222" stroke-width="1.5"/>
+<line x1="82" y1="478" x2="868" y2="478" stroke="#222" stroke-width="1.5"/>
+<line x1="82.00" y1="478" x2="82.00" y2="484" stroke="#222"/>
+<text x="82.00" y="502.00" font-size="12" text-anchor="middle" font-family="Arial, sans-serif" font-weight="normal">2</text>
+<line x1="138.14" y1="478" x2="138.14" y2="484" stroke="#222"/>
+<text x="138.14" y="502.00" font-size="12" text-anchor="middle" font-family="Arial, sans-serif" font-weight="normal">3</text>
+<line x1="194.29" y1="478" x2="194.29" y2="484" stroke="#222"/>
+<text x="194.29" y="502.00" font-size="12" text-anchor="middle" font-family="Arial, sans-serif" font-weight="normal">4</text>
+<line x1="306.57" y1="478" x2="306.57" y2="484" stroke="#222"/>
+<text x="306.57" y="502.00" font-size="12" text-anchor="middle" font-family="Arial, sans-serif" font-weight="normal">6</text>
+<line x1="418.86" y1="478" x2="418.86" y2="484" stroke="#222"/>
+<text x="418.86" y="502.00" font-size="12" text-anchor="middle" font-family="Arial, sans-serif" font-weight="normal">8</text>
+<line x1="868.00" y1="478" x2="868.00" y2="484" stroke="#222"/>
+<text x="868.00" y="502.00" font-size="12" text-anchor="middle" font-family="Arial, sans-serif" font-weight="normal">16</text>
+<line x1="82" y1="478.00" x2="868" y2="478.00" stroke="#e6e6e6"/>
+<text x="72.00" y="482.00" font-size="11" text-anchor="end" font-family="Arial, sans-serif" font-weight="normal">-0.08</text>
+<line x1="82" y1="394.00" x2="868" y2="394.00" stroke="#e6e6e6"/>
+<text x="72.00" y="398.00" font-size="11" text-anchor="end" font-family="Arial, sans-serif" font-weight="normal">0.152</text>
+<line x1="82" y1="310.00" x2="868" y2="310.00" stroke="#e6e6e6"/>
+<text x="72.00" y="314.00" font-size="11" text-anchor="end" font-family="Arial, sans-serif" font-weight="normal">0.384</text>
+<line x1="82" y1="226.00" x2="868" y2="226.00" stroke="#e6e6e6"/>
+<text x="72.00" y="230.00" font-size="11" text-anchor="end" font-family="Arial, sans-serif" font-weight="normal">0.616</text>
+<line x1="82" y1="142.00" x2="868" y2="142.00" stroke="#e6e6e6"/>
+<text x="72.00" y="146.00" font-size="11" text-anchor="end" font-family="Arial, sans-serif" font-weight="normal">0.848</text>
+<line x1="82" y1="58.00" x2="868" y2="58.00" stroke="#e6e6e6"/>
+<text x="72.00" y="62.00" font-size="11" text-anchor="end" font-family="Arial, sans-serif" font-weight="normal">1.08</text>
+<polyline points="82.00,403.78 138.14,381.15 194.29,358.52 306.57,313.26 418.86,268.00 868.00,86.97" fill="none" stroke="#76b7b2" stroke-width="2.4"/>
+<circle cx="82.00" cy="403.78" r="4.3" fill="#76b7b2"/>
+<circle cx="138.14" cy="381.15" r="4.3" fill="#76b7b2"/>
+<circle cx="194.29" cy="358.52" r="4.3" fill="#76b7b2"/>
+<circle cx="306.57" cy="313.26" r="4.3" fill="#76b7b2"/>
+<circle cx="418.86" cy="268.00" r="4.3" fill="#76b7b2"/>
+<circle cx="868.00" cy="86.97" r="4.3" fill="#76b7b2"/>
+<rect x="708" y="66" width="12" height="12" fill="#76b7b2"/>
+<text x="726.00" y="76.00" font-size="12" text-anchor="start" font-family="Arial, sans-serif" font-weight="normal">M(b)=b/16</text>
+<text x="475.00" y="532.00" font-size="14" text-anchor="middle" font-family="Arial, sans-serif" font-weight="normal">bit-width b</text>
+<text x="22" y="268.00" font-size="14" text-anchor="middle" font-family="Arial, sans-serif" transform="rotate(-90 22 268.00)">relative memory vs 16-bit</text>
+</svg>
